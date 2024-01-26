@@ -197,13 +197,13 @@ Nᴀᴍᴇ - {}"""
 
 <b>•────•────────•────•
 🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+xqfxWxoePGs4ZWJl)
-🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ARmovies_world)
+🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/AR_MoviesWorld_2k)
 •────•────────•────•
 ⚙𝗔ᴅᴠɪsᴏʀ :[ᴀɴᴀɴᴅ 𝟐𝐊࿐](https://t.me/Anand_2K)
 
 😎 நன்றி தலைவரே  🙏🏻
 
-🔥 𝐀𝐥𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐒𝐞𝐫𝐢𝐞𝐬 / 𝐌𝐨𝐯𝐢𝐞𝐬 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 🔥</b>"""
+🔥 New Bot : [Click Here](https://t.me/MASK_KP_2k21_bot) 🔥</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
